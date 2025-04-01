@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data-Visualization and Analysis
 Goal: Visualize and Analyse James Bond Movies data using pandas and matplotlib <br>
 - Step 0: Clone this repo to your computer. <br>
 - Step 1: Open the `james_bond_data_cleansed.csv` file using Excel and take a look at it to understand the data in the file. <br>
